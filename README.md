@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=400&lines=Deploying+Issues;Coding+Bugs;Dying+to+Delve;Cnat+Spllel;Plays+with+one+hand;Hates+yama;Pro+gooner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=400&lines=Sailing;Gooning;Coding)](https://git.io/typing-svg)
 
 [![Follow](https://img.shields.io/github/followers/roe69?label=Follow&style=for-the-badge&logo=githubsponsors&logoColor=white&color=ea4aaa&labelColor=24292f)](https://github.com/roe69)
 [![Stars](https://img.shields.io/github/stars/roe69?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=starship&logoColor=white&color=ffdf00&labelColor=24292f)](https://github.com/roe69?tab=repositories)
